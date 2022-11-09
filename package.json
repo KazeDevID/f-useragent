@@ -1,0 +1,26 @@
+{
+  "name": "f-useragent",
+  "version": "1.0.1",
+  "description": "generate a fake userAgent by kaze",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazeDevID/f-useragent.git"
+  },
+  "keywords": [
+    "userAgent",
+    "fake",
+    "nodejs",
+    "kazesolo",
+    "npm"
+  ],
+  "author": "KazeDevID",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KazeDevID/f-useragent/issues"
+  },
+  "homepage": "https://github.com/KazeDevID/f-useragent#readme"
+}
